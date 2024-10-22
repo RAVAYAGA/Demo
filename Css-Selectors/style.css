@@ -1,0 +1,15 @@
+.right{
+    text-align: right;
+}
+#two{
+    color: red;
+}
+
+.outer .inner{
+    color: blueviolet;
+}
+
+div + p
+{
+    color: blue;
+}
